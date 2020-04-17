@@ -6,7 +6,7 @@ This is a shameless copy of the Polar Ice theme from [themer.dev](https://themer
 
 ```vimscript
 " VimPlugged
-Plug 'hbarcelos/polar-ice-vim';
+Plug 'hbarcelos/polar-ice-vim', { 'do': './setup.sh' };
 
 " Vundle
 Plugin 'hbarcelos/polar-ice-vim';
