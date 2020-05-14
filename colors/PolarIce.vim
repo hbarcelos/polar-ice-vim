@@ -248,6 +248,15 @@
   exec "hi NERDTreeCWD guifg=".s:guiaccent0
   exec "hi NERDTreeCWD ctermfg=".s:ctermaccent0
 
+  " Signify
+
+  exec "hi SignifySignAdd    guibg=NONE   guifg=".s:guiaccent3
+  exec "hi SignifySignAdd    ctermbg=NONE ctermfg=".s:ctermaccent3
+  exec "hi SignifySignChange guibg=NONE   guifg=".s:guiaccent2
+  exec "hi SignifySignChange ctermbg=NONE ctermfg=".s:ctermaccent2
+  exec "hi SignifySignDelete guibg=NONE   guifg=".s:guiaccent0
+  exec "hi SignifySignDelete ctermbg=NONE ctermfg=".s:ctermaccent0
+
   """"""""""""
   " Clean up "
   """"""""""""
