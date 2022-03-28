@@ -28,8 +28,8 @@
   let s:ctermshade6 = 252
   let s:ctermshade7 = 195
   let s:ctermaccent0 = 217
-  let s:ctermaccent1 = 223
-  let s:ctermaccent2 = 223
+  let s:ctermaccent1 = 216
+  let s:ctermaccent2 = 222
   let s:ctermaccent3 = 193
   let s:ctermaccent4 = 158
   let s:ctermaccent5 = 153
