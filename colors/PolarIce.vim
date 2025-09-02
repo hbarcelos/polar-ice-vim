@@ -95,8 +95,8 @@
 
   " Default
 
-  exec "hi Comment guifg=".s:guishade2
-  exec "hi Comment ctermfg=".s:ctermshade2
+  exec "hi Comment guifg=".s:guishade3
+  exec "hi Comment ctermfg=".s:ctermshade3
   exec "hi Constant guifg=".s:guiaccent3
   exec "hi Constant ctermfg=".s:ctermaccent3
   exec "hi Character guifg=".s:guiaccent4
